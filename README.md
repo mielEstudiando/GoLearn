@@ -3,7 +3,7 @@
 ## Table of Contents
 1. [Introduction](#introduction)  
    1.1 [The Problem](#the-problem)  
-   1.2 [The Solution](#the-solution)
+   1.2 [The Solution](#the-solution) 
    1.3 [GoLearn](#golearn)
 3. [Team & Roles](#team--roles)
 4. [Strategy](#strategy)  
