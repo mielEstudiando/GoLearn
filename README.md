@@ -41,3 +41,29 @@ A marketplace platform for skill sharing and community courses, where:
 lore ipsum blah blah
 
 ## 2. Team & Roles
+
+- Cristobal Cheuquel, Project Manager
+- Valentina Huenchuñir, Designer
+- Nicole Rodríguez, Presenter
+- Millarayen Ferrada, Analyst
+
+## 3. Strategy
+### 3.1. Value Proposition Canvas
+placeholder
+### 3.2. UX Personas
+
+Through interviews and surveys with college students, we landed on these personas which represent the different realities behind GoLearn
+
+#### Carolina Vargas
+> “I want to earn money doing what I love, leveraging my existing social media audience”
+
+#### Sofia Martinez
+> “I want to pick up new skills for fun and personal enrichment, without having to invest large amounts of money”
+
+#### Camila Castro
+> “I want to showcase my skills in a practical way, and generate additional income along the way”
+
+### 3.3. Benchmarking
+
+In order to develop an app which meets the needs and wants of our users, we analyzed other platforms currently available, in order to figure out what works and what doesn't from them.
+For this, we selected five other skill sharing platforms: Udemy, Domestika, SkillShare, Coursera and Fiverr
