@@ -1,33 +1,35 @@
 # GoLearn
 ## Table of Contents
 1. [Introduction](#1-introduction)  
-   1.1 [The Problem](#11-the-problem)  
-   1.2 [The Solution](#12-the-solution)   
-   1.3 [GoLearn](#13-golearn)
-3. [Team & Roles](#team--roles)
-4. [Strategy](#strategy)  
-   3.1 [Value Proposition Canvas](#value-proposition-canvas)  
-   3.2 [UX Personas](#ux-personas)  
-   3.3 [Benchmarking](#benchmarking)
-5. [Scope](#scope)  
-   4.1 [Customer Journey Map](#customer-journey-map)  
-   4.1.1 [Decision Stage Interfaces](#decision-stage-interfaces)
-6. [Structure](#structure)  
-   5.1 [Navigation Flow](#navigation-flow)
-7. [Skeleton](#skeleton)  
-   6.1 [Low-Fidelity Wireframes](#low-fidelity-wireframes)
-8. [Surface](#surface)  
-   7.1 [Interface Evolution](#interface-evolution)  
-   7.2 [Results of the Heuristic Evaluation](#results-of-the-heuristic-evaluation)  
-   7.3 [High-Definition Interfaces](#high-definition-interfaces)
+   1.1. [The Problem](#11-the-problem)  
+   1.2. [The Solution](#12-the-solution)   
+   1.3. [GoLearn](#13-golearn)
+2. [Team & Roles](#3-team--roles)
+3. [Strategy](#4-strategy)  
+   3.1. [Value Proposition Canvas](#31-value-proposition-canvas)  
+   3.2. [UX Personas](#32-ux-personas)  
+   3.3. [Benchmarking](#33-benchmarking)
+4. [Scope](#scope)  
+   4.1. [Customer Journey Map](#41-customer-journey-map)  
+   4.1.1. [Decision Stage Interfaces](#411-decision-stage-interfaces)
+5. [Structure](#5-structure)  
+   5.1. [Navigation Flow](#51-navigation-flow)
+6. [Skeleton](#6-skeleton)  
+   6.1. [Low-Fidelity Wireframes](#61-low-fidelity-wireframes)
+7. [Surface](#7-surface)  
+   7.1. [Interface Evolution](#71-interface-evolution)  
+   7.2. [Results of the Heuristic Evaluation](#72-results-of-the-heuristic-evaluation)  
+   7.3. [High-Definition Interfaces](#73-high-definition-interfaces)
 
 ---
 
 ## 1. Introduction
+
 ### 1.1. The Problem
 Many people possess valuable knowledge and skills (such as cooking, basic repairs, music, design, handcrafts, languages, and so on), but they do not have the platform to share it without being certified experts or part of teaching institutions.
 At the same time, there’s a growing number of people interested in learning from practical experience, with a closer, more flexible, and more economic view compared to traditional courses.
 Modern platforms tend to impose subscription models, high costs, or a focus on traditional academic content, which leaves behind the people who search for a space more open to community, flexibility, and practicality.
+
 ### 1.2. The Solution
 A marketplace platform for skill sharing and community courses, where:
 - Any user can create and offer courses based on their skills
@@ -44,7 +46,6 @@ We believe in democratizing education and making practical skills accessible and
 
 GoLearn: Knowledge for everyone, shared by everyone
 
-
 ## 2. Team & Roles
 
 - Cristobal Cheuquel, Project Manager
@@ -53,8 +54,21 @@ GoLearn: Knowledge for everyone, shared by everyone
 - Millarayen Ferrada, Analyst
 
 ## 3. Strategy
+
 ### 3.1. Value Proposition Canvas
-placeholder
+
+The Value Proposition Canvas illustrates how GoLearn connects its offering with the real needs and aspirations of its users, creating a balance between what learners seek and what the platform delivers
+
+#### Customer Segments
+
+Our main users are individuals eager to learn and teach practical skills in a flexible, community-driven environment.
+
+#### Value Proposition
+
+GoLearn offers a marketplace for community-based learning, empowering users to both teach and learn in a fair, accessible ecosystem.
+
+![Value Proposition Canvas](assets/value-proposition-canvas-GoLearn.png)
+
 ### 3.2. UX Personas
 
 Through interviews and surveys with college students, we landed on these personas which represent the different realities behind GoLearn
@@ -100,6 +114,8 @@ These stages can be seen explained in detail down below
 #### 4.1.1 Decision Stage Interfaces
 
 ## 5. Structure
+
+### 5.1. Navigation Flow
 
 ## 6. Skeleton
 
