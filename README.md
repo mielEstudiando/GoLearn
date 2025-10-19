@@ -128,7 +128,7 @@ To define the structure and layout of the platform, we created low-fidelity wire
 You can explore them through the following links:
 
 - **Figma Prototype:** [View in Figma](https://www.figma.com/file/YOUR-FIGMA-LINK)
-- **Wireframes PDF:** [Download PDF](./assets/wireframes-GoLearn.pdf)
+- **Wireframes PDF:** [Download PDF](./docs/wireframes-GoLearn.pdf)
 
 ## 7. Surface
 
