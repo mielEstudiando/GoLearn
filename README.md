@@ -62,24 +62,24 @@ Through interviews and surveys with college students, we landed on these persona
 #### Carolina Vargas
 > “I want to earn money doing what I love, leveraging my existing social media audience”
 
-![Carolina Persona](assets/persona-carolina - GoLearn.png)
+![Carolina Persona](assets/persona-carolina-GoLearn.png)
 
 #### Sofia Martinez
 > “I want to pick up new skills for fun and personal enrichment, without having to invest large amounts of money”
 
-![Sofia Persona](assets/persona-sofia - GoLearn.png)
+![Sofia Persona](assets/persona-sofia-GoLearn.png)
 
 #### Camila Castro
 > “I want to showcase my skills in a practical way, and generate additional income along the way”
 
-![Camila Persona](assets/persona-camila - GoLearn.png)
+![Camila Persona](assets/persona-camila-GoLearn.png)
 
 ### 3.3. Benchmarking
 
 In order to develop an app which meets the needs and wants of our users, we analyzed other platforms currently available, in order to figure out what works and what doesn't from them.
 For this, we selected five other skill sharing platforms: Udemy, Domestika, SkillShare, Coursera and Fiverr
 
-![Benchmark](assets/benchmark - GoLearn.png)
+![Benchmark](assets/benchmark-GoLearn.png)
 
 ## 4. Scope
 
@@ -95,7 +95,7 @@ We’ve identified five key stages in the customer’s journey with GoLearn
 
 These stages can be seen explained in detail down below
 
-![Customer Journey Map](assets/journey-map - GoLearn.png)
+![Customer Journey Map](assets/journey-map-GoLearn.png)
 
 #### 4.1.1 Decision Stage Interfaces
 
