@@ -119,6 +119,23 @@ placeholder
 
 ### 5.1. Navigation Flow
 
+The navigation flow illustrates how users move through the GoLearn platform, from discovering courses to offering their own. It ensures a smooth and intuitive experience for both learners and teachers.
+
+- **Landing Page:** Users can explore featured courses, see popular categories, and log in or sign up.
+- **User Dashboard:** After logging in, users access their dashboard, showing their enrolled courses, available credits, and progress.
+- **Course Browsing:** Users can search and filter courses by category, popularity, or skill level.
+- **Course Details:** Each course page displays the curriculum, teacher information, reviews, and the option to enroll using credits.
+- **Creating a Course:** Users who want to teach can access a guided course creation flow with templates and tips.
+- **Credits & Payments:** Users can view, earn, or spend credits; teachers can request payouts if they are affiliates.
+- **Community & Reviews:** Users can rate courses, leave feedback, and interact with other learners to foster trust.
+- **Settings & Profile:** Users can update personal information, manage notifications, and view their activity history.
+
+This flow is designed to make the platform intuitive, flexible, and community-oriented, minimizing friction while maximizing engagement.
+
+PLACEHOLDER
+
+![Navigation Flow](assets/navigation-flow-GoLearn.png)
+
 ## 6. Skeleton
 
 ### 6.1. Low-Fidelity Wireframes
@@ -127,8 +144,8 @@ To define the structure and layout of the platform, we created low-fidelity wire
 
 You can explore them through the following links:
 
-- **Figma Prototype:** [View in Figma](https://www.figma.com/file/YOUR-FIGMA-LINK)
-- **Wireframes PDF:** [Download PDF](./docs/wireframes-GoLearn.pdf)
+- **Figma Prototype PLACEHOLDER:** [View in Figma](https://www.figma.com/file/YOUR-FIGMA-LINK)
+- **Wireframes PDF:** [Go to PDF](./docs/wireframes-GoLearn.pdf)
 
 ## 7. Surface
 
