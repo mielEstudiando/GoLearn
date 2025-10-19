@@ -44,7 +44,7 @@ GoLearn is more than just an app; it is a community that empowers people to lear
 
 We believe in democratizing education and making practical skills accessible and rewarding for everyone 
 
-GoLearn: Knowledge for everyone, shared by everyone
+***GoLearn**: Knowledge for everyone, shared by everyone*
 
 ## 2. Team & Roles
 
@@ -113,10 +113,27 @@ These stages can be seen explained in detail down below
 
 #### 4.1.1 Decision Stage Interfaces
 
+placeholder
+
 ## 5. Structure
 
 ### 5.1. Navigation Flow
 
 ## 6. Skeleton
 
+### 6.1. Low-Fidelity Wireframes
+
+To define the structure and layout of the platform, we created low-fidelity wireframes that outline the main navigation flow, core screens, and interaction logic of GoLearn. They serve as the foundation for the next visual and interaction design decisions.
+
+You can explore them through the following links:
+
+- **Figma Prototype:** [View in Figma](https://www.figma.com/file/YOUR-FIGMA-LINK)
+- **Wireframes PDF:** [Download PDF](./docs/wireframes-GoLearn.pdf)
+
 ## 7. Surface
+
+### 7.1. Interface Evolution
+
+### 7.2. Results of the Heuristic Evaluation
+
+### 7.3. High-Definition Interfaces
