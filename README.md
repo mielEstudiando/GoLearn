@@ -38,7 +38,12 @@ A marketplace platform for skill sharing and community courses, where:
 
 ### 1.3 GoLearn
 
-lore ipsum blah blah
+GoLearn is more than just an app; it is a community that empowers people to learn from real experiences and sharing their knowledge, regardless of formal credentials
+
+We believe in democratizing education and making practical skills accessible and rewarding for everyone 
+
+GoLearn: Knowledge for everyone, shared by everyone
+
 
 ## 2. Team & Roles
 
@@ -57,13 +62,45 @@ Through interviews and surveys with college students, we landed on these persona
 #### Carolina Vargas
 > “I want to earn money doing what I love, leveraging my existing social media audience”
 
+![Carolina Persona](assets/persona-carolina - GoLearn.png)
+
 #### Sofia Martinez
 > “I want to pick up new skills for fun and personal enrichment, without having to invest large amounts of money”
 
+![Sofia Persona](assets/persona-sofia - GoLearn.png)
+
 #### Camila Castro
 > “I want to showcase my skills in a practical way, and generate additional income along the way”
+
+![Camila Persona](assets/persona-camila - GoLearn.png)
 
 ### 3.3. Benchmarking
 
 In order to develop an app which meets the needs and wants of our users, we analyzed other platforms currently available, in order to figure out what works and what doesn't from them.
 For this, we selected five other skill sharing platforms: Udemy, Domestika, SkillShare, Coursera and Fiverr
+
+![Benchmark](assets/benchmark - GoLearn.png)
+
+## 4. Scope
+
+### 4.1 Customer Journey Map
+
+We’ve identified five key stages in the customer’s journey with GoLearn
+
+- Awareness
+- Consideration
+- Decision
+- Service
+- Loyalty and Advocacy
+
+These stages can be seen explained in detail down below
+
+![Customer Journey Map](assets/journey-map - GoLearn.png)
+
+#### 4.1.1 Decision Stage Interfaces
+
+## 5. Structure
+
+## 6. Skeleton
+
+## 7. Surface
