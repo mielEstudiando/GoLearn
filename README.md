@@ -16,10 +16,9 @@
    5.1. [Navigation Flow](#51-navigation-flow)
 6. [Skeleton](#6-skeleton)  
    6.1. [Low-Fidelity Wireframes](#61-low-fidelity-wireframes)
-7. [Surface](#7-surface)  
+7. [Interfaces](#7-Interfaces)  
    7.1. [Interface Evolution](#71-interface-evolution)  
-   7.2. [Results of the Heuristic Evaluation](#72-results-of-the-heuristic-evaluation)  
-   7.3. [High-Definition Interfaces](#73-high-definition-interfaces)
+   7.2. [High-Definition Interfaces](#72-high-definition-interfaces)
 
 ---
 
@@ -113,7 +112,38 @@ These stages can be seen explained in detail down below
 
 #### 4.1.1 Decision Stage Interfaces
 
-placeholder
+Decision Stage Interfaces
+
+The Decision Stage represents the moment when users make key choices within GoLearn — joining the platform, creating a course, or enrolling in one. The interfaces developed for this stage prioritize clarity, simplicity, and confidence in decision-making, ensuring that users can act smoothly according to their goals.
+
+##### User Activities and Goals
+
+- **New Users:** Create an account or log in to start exploring the platform.  
+Goal: Begin their learning or teaching journey quickly and effortlessly.
+
+- **Aspiring Instructors:** Use the Crear Curso flow to design and publish their own courses.   
+Goal: Share their knowledge and reach an audience through a guided, structured process.
+
+- **Learners:** Explore the Home and Course View interfaces to evaluate and enroll in courses.   
+Goal: Discover valuable learning opportunities and invest credits with confidence.
+
+- **All Users:** Manage or purchase credits to facilitate transactions within the platform.   
+Goal: Maintain autonomy and control over their learning and teaching economy.
+
+#### Touchpoints
+
+- **Landing Page:** The first interaction where users discover GoLearn’s purpose and offerings.
+
+- **Sign Up / Login:** Entry point that enables personalized access and engagement.
+
+- **Home Page:** Central navigation hub connecting to courses, profiles, and credits.
+
+- **Course Creation:** Main touchpoint for instructors to publish and monetize their knowledge.
+
+- **Course View:** Decision interface for learners to assess and enroll in courses.
+
+- **Credits Interface:**  Financial touchpoint enabling smooth and transparent transactions.
+
 
 ## 5. Structure
 
@@ -131,15 +161,43 @@ This flow was used as a reference for the design of the interfaces and guided th
 
 To define the structure and layout of the platform, we created low-fidelity wireframes that outline the main navigation flow, core screens, and interaction logic of GoLearn. They serve as the foundation for the next visual and interaction design decisions.
 
-You can explore them through the following links:
+You can explore them through the following link:
 
-- **Figma Prototype PLACEHOLDER:** [View in Figma](https://www.figma.com/file/YOUR-FIGMA-LINK)
 - **Wireframes PDF:** [Go to PDF](./docs/wireframes-GoLearn.pdf)
 
-## 7. Surface
+## 7. Interfaces
 
 ### 7.1. Interface Evolution
 
-### 7.2. Results of the Heuristic Evaluation
+The design process of GoLearn’s interface evolved progressively from low-fidelity wireframes to high-definition (HD) prototypes, emphasizing usability, clarity, and visual hierarchy. Early wireframes primarily defined structure and functionality, focusing on organizing core elements such as navigation, course information, and user profiles. Through iterative refinement, each interface component was adjusted based on coherence, balance, and user experience feedback.
 
-### 7.3. High-Definition Interfaces
+By the HD stage, visual elements were enhanced with color, typography, and spacing to create a more engaging and intuitive environment. Functional improvements—such as clearer presentation of course pricing, differentiated user profile views, and simplified navigation—reflected a deeper understanding of user needs. Overall, the evolution from wireframe to HD design demonstrates a transition from conceptual structure to a polished, user-centered interface that aligns both aesthetics and functionality.
+
+Following, some examples:
+
+![Home Page](assets/evolutions/36.png)
+![User Profile 1](assets/evolutions/37.png)
+![User Profile 2](assets/evolutions/38.png)
+![User Profile 3](assets/evolutions/39.png)
+![Course Overview](assets/evolutions/40.png)
+![Create Course 1](assets/evolutions/41.png)
+![Create Course 2](assets/evolutions/42.png)
+
+### 7.2. High-Definition Interfaces
+
+The final HD interfaces represent the culmination of GoLearn’s design process.
+
+The result is a cohesive and user-friendly experience that successfully meets the project’s goals. Navigation feels natural, information is clearly organized, and the visual design reinforces the platform’s identity. 
+
+![1](assets/hdframes/CrearCuenta1.png)
+![2](assets/hdframes/CrearCuenta2.png)
+![3](assets/hdframes/CrearCurso.png)
+![4](assets/hdframes/CrearCurso1.png)
+![5](assets/hdframes/CrearCurso2.png)
+![6](assets/hdframes/Home2.png)
+![7](assets/hdframes/Creditos.png)
+![8](assets/hdframes/IniciarSesion.png)
+![9](assets/hdframes/Landing.png)
+![10](assets/hdframes/Perfil1.png)
+![11](assets/hdframes/Perfil2.png)
+![12](assets/hdframes/VistaCurso.png)
