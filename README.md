@@ -112,7 +112,38 @@ These stages can be seen explained in detail down below
 
 #### 4.1.1 Decision Stage Interfaces
 
-placeholder
+Decision Stage Interfaces
+
+The Decision Stage represents the moment when users make key choices within GoLearn — joining the platform, creating a course, or enrolling in one. The interfaces developed for this stage prioritize clarity, simplicity, and confidence in decision-making, ensuring that users can act smoothly according to their goals.
+
+##### User Activities and Goals
+
+- **New Users:** Create an account or log in to start exploring the platform.  
+Goal: Begin their learning or teaching journey quickly and effortlessly.
+
+- **Aspiring Instructors:** Use the Crear Curso flow to design and publish their own courses.   
+Goal: Share their knowledge and reach an audience through a guided, structured process.
+
+- **Learners:** Explore the Home and Course View interfaces to evaluate and enroll in courses.   
+Goal: Discover valuable learning opportunities and invest credits with confidence.
+
+- **All Users:** Manage or purchase credits to facilitate transactions within the platform.   
+Goal: Maintain autonomy and control over their learning and teaching economy.
+
+#### Touchpoints
+
+- **Landing Page:** The first interaction where users discover GoLearn’s purpose and offerings.
+
+- **Sign Up / Login:** Entry point that enables personalized access and engagement.
+
+- **Home Page:** Central navigation hub connecting to courses, profiles, and credits.
+
+- **Course Creation:** Main touchpoint for instructors to publish and monetize their knowledge.
+
+- **Course View:** Decision interface for learners to assess and enroll in courses.
+
+- **Credits Interface:**  Financial touchpoint enabling smooth and transparent transactions.
+
 
 ## 5. Structure
 
