@@ -19,6 +19,10 @@
 7. [Interfaces](#7-Interfaces)  
    7.1. [Interface Evolution](#71-interface-evolution)  
    7.2. [High-Definition Interfaces](#72-high-definition-interfaces)
+8. [Changes From Last Version](#8-changes-from-last-version)  
+   8.1 [Heuristic Evaluation](#81-heuristic-evaluation)  
+   8.2 [Accessibility Changes](#82-accessibility-changes)  
+   8.3 [Other Modifications](#83-other-modifications)
 
 ---
 
@@ -183,11 +187,12 @@ Following, some examples:
 ![Create Course 1](assets/evolutions/41.png)
 ![Create Course 2](assets/evolutions/42.png)
 
-### 7.2. High-Definition Interfaces
+### 7.2. Final High-Definition Interfaces
 
-The final HD interfaces represent the culmination of GoLearn’s design process.
+The HD interfaces represent the final stage of GoLearn’s design process.
+They provide a clearer, more consistent experience that supports the overall goals of the project.
 
-The result is a cohesive and user-friendly experience that successfully meets the project’s goals. Navigation feels natural, information is clearly organized, and the visual design reinforces the platform’s identity. 
+#### [Interactive Figma Prototype](https://www.figma.com/proto/NkBskl3IYIvcaUGZLnPBc1/GoLearn?node-id=32-7&t=r0TDQQpVY3BuDaAZ-1)
 
 ![1](assets/hdframes/CrearCuenta1.png)
 ![2](assets/hdframes/CrearCuenta2.png)
@@ -201,3 +206,31 @@ The result is a cohesive and user-friendly experience that successfully meets th
 ![10](assets/hdframes/Perfil1.png)
 ![11](assets/hdframes/Perfil2.png)
 ![12](assets/hdframes/VistaCurso.png)
+
+## 8. Changes From Last Version
+
+### 8.1. Heuristic Evaluation
+
+Our peers conducted a full heuristic evaluation of the project, identifying several critical issues:
+
+- No visual feedback in navigation
+- Confusion in course creation
+- Unclear value and purpose of credits
+- Lack of course-in-progress interface
+- Inconsistent typography
+
+All of these issues were addressed in the final prototype, and the updated screens reflecting these improvements are included in this document.
+
+### 8.2. Accessibility Changes
+
+Enhancing visual consistency, adding clear navigation indicators, and refining spacing and typography contribute directly to a more accessible and user-friendly experience. These changes help users quickly understand where they are within the platform, reduce cognitive load, and ensure that key information is easier to read and interact with. By improving clarity and predictability across the interface, the product becomes more inclusive and usable for a wider range of users, including those with visual or cognitive accessibility needs.
+
+### 8.3. Other Modifications
+
+Based on the feedback received, we implemented support for in-person courses, added an interface to display courses currently in progress, and introduced navigation indicators to help users understand their position within the platform.
+
+We also refined typography, spacing, and overall visual consistency to enhance the user experience.
+
+Additionally, we focused on strengthening our product’s visual identity, ensuring it stands out from competitors rather than blending into existing market solutions.
+
+
