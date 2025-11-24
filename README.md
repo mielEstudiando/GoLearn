@@ -187,12 +187,10 @@ Following, some examples:
 ![Create Course 1](assets/evolutions/41.png)
 ![Create Course 2](assets/evolutions/42.png)
 
-### 7.2. Final High-Definition Interfaces
+### 7.2. High-Definition Interfaces
 
-The HD interfaces represent the final stage of GoLearn’s design process.
+The HD interfaces represent a crucial stage of GoLearn’s design process.
 They provide a clearer, more consistent experience that supports the overall goals of the project.
-
-#### [Interactive Figma Prototype](https://www.figma.com/proto/NkBskl3IYIvcaUGZLnPBc1/GoLearn?node-id=32-7&t=r0TDQQpVY3BuDaAZ-1)
 
 ![1](assets/hdframes/CrearCuenta1.png)
 ![2](assets/hdframes/CrearCuenta2.png)
@@ -223,7 +221,8 @@ All of these issues were addressed in the final prototype, and the updated scree
 
 ### 8.2. Accessibility Changes
 
-Enhancing visual consistency, adding clear navigation indicators, and refining spacing and typography contribute directly to a more accessible and user-friendly experience. These changes help users quickly understand where they are within the platform, reduce cognitive load, and ensure that key information is easier to read and interact with. By improving clarity and predictability across the interface, the product becomes more inclusive and usable for a wider range of users, including those with visual or cognitive accessibility needs.
+Improving visual consistency, adding navigation cues, and polishing spacing and typography make the platform easier to use and more accessible. These updates help users understand where they are, find information faster, and navigate with less effort—benefiting a wider range of people, including those with visual or cognitive needs.
+We also added a High Contrast mode to make the interface even more readable for users who need stronger visual clarity. 
 
 ### 8.3. Other Modifications
 
@@ -233,4 +232,8 @@ We also refined typography, spacing, and overall visual consistency to enhance t
 
 Additionally, we focused on strengthening our product’s visual identity, ensuring it stands out from competitors rather than blending into existing market solutions.
 
+## 9. Final Interfaces
 
+You can explore and navigate the final interfaces through the following link:
+
+[Interactive Figma Prototype](https://www.figma.com/proto/NkBskl3IYIvcaUGZLnPBc1/GoLearn?node-id=32-7&t=r0TDQQpVY3BuDaAZ-1)
